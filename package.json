@@ -1,0 +1,16 @@
+{ "name": "gulp-json-explode"
+, "version": "0.0.0"
+, "description": "Explode a JSON-encoded object. Every key becomes a new JSON file."
+, "license": "MIT"
+
+, "contributors":
+  [ { "name": "Tomek Wiszniewski"
+    , "email": "t.wiszniewski@gmail.com"
+    }
+  ]
+
+, "repository":
+  { "type": "git"
+  , "url": "https://github.com/tomekwi/gulp-json-explode.git"
+  }
+}
